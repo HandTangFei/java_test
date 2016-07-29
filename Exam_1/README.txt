@@ -1,0 +1,1 @@
+﻿1 在Exam_1\target\classes目录下运行命令：java com.hand.App，结果显示出来。
